@@ -13,7 +13,6 @@
     <input type="text" name="usd" placeholder="USD" value="0"><br>
     <input type="submit" id="submit" value="Converter">
 </form>
-
 <p>Result:</p>
 <p>${result1}</p>
 </body>
